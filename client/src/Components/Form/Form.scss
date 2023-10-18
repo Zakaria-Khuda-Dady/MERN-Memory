@@ -1,0 +1,36 @@
+.root {
+  &-MuiTextField-root {
+    margin: 5px;
+  }
+}
+.paper {
+  padding: 10px;
+  background-color: yellow;
+}
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 300px;
+  padding: 10px;
+}
+
+.MuiGrid-container {
+  padding: 10px;
+}
+
+.router-family {
+  width: 100%;
+}
+
+.MuiFormControl-root {
+  margin-bottom: 10px;
+}
+
+.fileInput {
+  width: 97%;
+  margin: 10px 0;
+}
+.buttonSubmit {
+  margin-bottom: 10px !important;
+}
